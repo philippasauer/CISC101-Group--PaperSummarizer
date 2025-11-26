@@ -1,4 +1,4 @@
-## Change Log 12/26-2025
+## Change Log 11/26-2025
 - Added summary_level variable to control summarization depth.  
 - Implemented conditional behavior:  
   - "short" → 1–2 sentence summary per section.  
