@@ -1,3 +1,9 @@
+## Change Log 12/26-2025
+- Added summary_level variable to control summarization depth.  
+- Implemented conditional behavior:  
+  - "short" → 1–2 sentence summary per section.  
+  - "detailed" → Short paragraph + bullet list of 3–5 key points.  
+
 ### Module 2: Section Loop
 - Iterate through each section sequentially.  
 - Extract key arguments, findings, and claims.  
