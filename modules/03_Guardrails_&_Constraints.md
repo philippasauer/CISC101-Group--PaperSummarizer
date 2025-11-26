@@ -1,3 +1,8 @@
+## Change Log 11/26-2025
+- Introduced evidence_mode variable with "strict" option.  
+- In "strict" mode, summarizer only includes claims, equations, and results explicitly found in the source text.  
+- Added standardized warning messages for missing or empty sections and sections <50 words.  
+
 ### Module 3: Guardrails & Constraints
 
 ## Variables
