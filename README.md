@@ -8,5 +8,3 @@
 4. Required Output Sections Defines the five deliverables: a core summary, a section-by-section table, audience-specific translations, a glossary, and quality warnings.
 
 5. Internal Workflow (Modules 1–6) The logical step-by-step process. It guides the AI to normalize text, analyze sections, check word counts, explain math, and identify the paper's unique contributions.
-
-6. Output Format A strict visual template using Markdown tables and headers to ensure every result is consistent and readable.
